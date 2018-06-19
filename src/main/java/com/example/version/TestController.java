@@ -18,4 +18,9 @@ public class TestController {
 		return "pradeep Singh";
 	}
 
+	@GetMapping("/test2")
+	public String getName2()
+	{
+		return "Into IntelliJ";
+	}
 }
