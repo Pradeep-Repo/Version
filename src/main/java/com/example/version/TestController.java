@@ -15,6 +15,7 @@ public class TestController {
 	@GetMapping("/test2")
 	public String getName2()
 	{
+		
 		return "pradeep Singh";
 	}
 
