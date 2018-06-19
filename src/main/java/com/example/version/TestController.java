@@ -9,7 +9,7 @@ public class TestController {
 	@GetMapping("/test")
 	public String getName()
 	{
-		return "pradeep Singh1";
+		return "pradeep Singh";
 	}
 	
 	@GetMapping("/test1")
