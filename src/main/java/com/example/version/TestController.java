@@ -23,4 +23,11 @@ public class TestController {
 	{
 		return "Into IntelliJ";
 	}
+
+
+    @GetMapping("/test3")
+    public String getName3()
+    {
+        return "Into IntelliJ";
+    }
 }
