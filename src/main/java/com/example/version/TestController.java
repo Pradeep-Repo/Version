@@ -22,7 +22,7 @@ public class TestController {
 	public String getName2()
 	{
 		
-		return "pradeep Singh";
+		return "pradee12p Singh";
 	}
 
 }
